@@ -24,7 +24,7 @@
   .moneyList {
     list-style: none;
     width: 100%;
-    padding: 20px;
+    padding: 10px;
   }
   
   .moneyListItem {
@@ -39,13 +39,13 @@
   }
   
   .moneyListItemNumber {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 100;
     width: 30%;
   }
   
   .moneyListItemAmount {
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 300;
   }
   
@@ -63,7 +63,7 @@
     align-items: center;
     justify-content: center;
     position: absolute;
-    bottom: 10px;
+    bottom: 30px;
     left: 80px;
     font-size: 30px;
     font-weight: 700;
@@ -101,7 +101,7 @@
   .answer {
     width: 40%;
     padding: 10px;
-    margin: 0 10px 20px 10px;
+    margin: 10px 0px 20px 10px;
     text-align: center;
     background: linear-gradient(#0e0124, #22074d);
     border: 1px solid white;
